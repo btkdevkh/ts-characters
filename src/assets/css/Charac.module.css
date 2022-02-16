@@ -1,0 +1,17 @@
+.minus {
+  font-size: 2rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.plus {
+  font-size: 2rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.nbPoints {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: crimson;
+}
